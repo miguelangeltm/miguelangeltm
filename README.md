@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
  - 🔭🔰 I’m currently learning ReactJS & NodeJS, my goal is having the MERN stack completed. 
  - 🤓 I'm able to write JS and python scripts too.
- - ⚡ Fun fact: I am left-handed but I use to play guitar like right-handed (learn by myself)
+ - ⚡ Fun fact: I am left-handed but I use to play guitar like right-handed 
  
  #### LENGUAGES AND TOOLS
 
