@@ -28,20 +28,20 @@ Here are some ideas to get you started:
 #### Check out my last projects: 
 
 
-[⚛️React] Matching pair game:  [Go to the Repository](https://github.com/MikeVitamina/pokemon-matching-pairs) - [Go to Github pages](https://mikevitamina.github.io/pokemon-matching-pairs/).
+[⚛️React] Matching pair game:  [Go to the Repository](https://github.com/miguelangeltm/pokemon-matching-pairs) - [Go to Github pages](https://miguelangeltm.github.io/pokemon-matching-pairs/).
 
-[⚛️React] A Comic book catalog: [Go to the Repository](https://github.com/MikeVitamina/ComicBookApp) - [Go to Github pages](https://mikevitamina.github.io/ComicBookApp/).
-
-
-[⚛️React]  Bike mail delivery system: [Go to the Repository](https://github.com/MikeVitamina/BikeMailReactApp) - [Go to Github pages](https://mikevitamina.github.io/BikeMailReactApp/).
+[⚛️React] A Comic book catalog: [Go to the Repository](https://github.com/miguelangeltm/ComicBookApp) - [Go to Github pages](https://miguelangeltm.github.io/ComicBookApp/).
 
 
-[🐍Python] Google drive handler: [Go to the Repository](https://github.com/MikeVitamina/GDriveApiPython).
+[⚛️React]  Bike mail delivery system: [Go to the Repository](https://github.com/miguelangeltm/BikeMailReactApp) - [Go to Github pages](https://miguelangeltm.github.io/BikeMailReactApp/).
+
+
+[🐍Python] Google drive handler: [Go to the Repository](https://github.com/miguelangeltm/GDriveApiPython).
 
 
 #### Other projects: 
 
-I made this landing page for Academia Vieira CL. [Check out here on Github pages](https://mikevitamina.github.io/academiaVieira/)
+I made this landing page for Academia Vieira CL. [Check out here on Github pages](https://miguelangeltm.github.io/academiaVieira/)
 
 
 I've just started a Kotlin course and learned figma in the process. So i invented my ice cream brand called "Zamba" in order to have a project for my app (i think this week i'm gonna upload my kotlin code) 
